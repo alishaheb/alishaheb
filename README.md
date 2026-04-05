@@ -20,7 +20,7 @@
 I'm a Data Scientist and Machine Learning Engineer with a strong research orientation, currently based in the UK. My work spans the full ML pipeline — from data engineering and model development to cloud deployment and production monitoring.
 
 - 🎓 **MSc Data Science** — University of Surrey
-- 📄 **Published** at [IJCLR 2025](https://ijclr25.doc.ic.ac.uk/) — *LLMs and Inductive Logic Programming*
+- 📄 **Co-authored** paper at [IJCLR 2025](https://ijclr25.doc.ic.ac.uk/) — *LLMs and Inductive Logic Programming*
 - 🔬 **PhD Applicant** — University of Manchester & IISc Bangalore · Bio-inspired ego-motion suppression for neuromorphic vision on embedded systems
 - 🌱 Currently deep-diving into **GPU programming with Triton** and **neuromorphic computing**
 - 💼 Open to **mid-level Data Scientist / ML Engineer** roles in the UK
