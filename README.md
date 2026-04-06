@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & ML Engineer | MSc Data Science · University of Surrey | United Kingdom</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alishahebrahimi/" target="_blank">
+  <a href="https://www.linkedin.com/in/seyed-ali-shahebrahimi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ali.shahebrahimi@gmail.com">
